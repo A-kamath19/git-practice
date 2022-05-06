@@ -16,3 +16,4 @@
 - git merge <branch_name>
 - git branch
 - git branch -d <branch_name>
+- git push origin master
