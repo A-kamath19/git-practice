@@ -5,3 +5,14 @@
 - git commit -m "Init commit"
 - git remote add origin ...
 - git push origin master
+- git checkout -b test
+- git branch
+- edit README
+- git add .
+- git commit ...
+- git checkout master
+- git push origin <branch_name>
+- git branch
+- git merge <branch_name>
+- git branch
+- git branch -d <branch_name>
